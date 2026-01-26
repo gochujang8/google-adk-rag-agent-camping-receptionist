@@ -1,0 +1,16 @@
+.venv/
+.git/
+__pycache__/
+*.pyc
+*.pyo
+tests/
+deployment/
+data/
+*.docx
+*.pdf
+.env-example
+uv.lock
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.md
